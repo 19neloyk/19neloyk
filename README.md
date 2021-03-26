@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-tunedune.live
+https://tunedune.live
 
 Learning some Golang
 

@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-https://tunedune.live
+### Amazing Website: www.tunedune.live
 
 Learning some Golang
 

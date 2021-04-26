@@ -1,6 +1,6 @@
 ### www.tunedune.live
 
-Golang Fienddddddd
+Golang fiend
 
 
 [![Neloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=19neloyk)](https://github.com/19neloyk/github-readme-stats)
